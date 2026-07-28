@@ -1,0 +1,12 @@
+{
+  "name": "ticket-master-server-scripts",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "seed": "node scripts/seed.js",
+    "hammer": "node scripts/concurrency-harness.js"
+  },
+  "dependencies": {
+    "pg": "^8.22.0"
+  }
+}
