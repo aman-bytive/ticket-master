@@ -1,0 +1,12 @@
+-- Ticket Master Server — PostgreSQL schema
+-- DDL is a timed cold-build exercise (REQUIREMENTS.md Week 1 Day 1) — not scaffolded here.
+-- Tables to define, per REQUIREMENTS.md Domain Model:
+--   users
+--   venues
+--   performers
+--   events
+--   tickets
+--   bookings
+--   booking_items
+--   payments
+--   outbox
